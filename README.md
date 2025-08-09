@@ -1,4 +1,4 @@
-## PXJMenu-2
+## PXJMenu-2 BETA
 The Newest Version of PXJMenu
 
 ## Changes 
